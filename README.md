@@ -17,4 +17,5 @@ PS（汇编代码不带表某个特定架构，而只是作为测试使用）
 
 控制台的输入(输入的代码并不是上述图片内容)
 
-  <img width="634" alt="1710467652806" src="https://github.com/WlayRay/c_compiler/assets/152136925/a1df51e7-5c53-4956-8fac-e37aa237d2d5">
+<img width="695" alt="1710468089536" src="https://github.com/WlayRay/c_compiler/assets/152136925/c0f6f875-cefe-4ed9-8fca-2df017dc8893">
+
